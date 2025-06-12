@@ -1,0 +1,6 @@
+HBoxContainer
+MarginContainer
+Label
+CanvasLayer
+Timer
+CollisionShape2D
